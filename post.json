@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog Post",
+    "date": "2025-09-30",
+    "content": "This is the content of my very first blog post!"
+  },
+  {
+    "id": 2,
+    "title": "Why I Love Writing",
+    "date": "2025-09-29",
+    "content": "Writing helps me share my thoughts and connect with others."
+  },
+  {
+    "id": 3,
+    "title": "Learning Web Development",
+    "date": "2025-09-28",
+    "content": "I am building my first responsive blog with HTML, CSS, and JavaScript!"
+  }
+]
